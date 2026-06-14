@@ -19,6 +19,10 @@ git clone https://github.com/Y2theK/support_ticket_portal.git
 ```
 
 ```shell
+cd support_ticket_portal
+```
+
+```shell
 cp .env.example .env
 ```
 ```
@@ -37,7 +41,11 @@ php artisan migrate:fresh --seed
 ```
 
 ```shell
-npm install && npm run build
+npm install
+```
+
+```shell
+npm run build
 ```
 
 ```shell

@@ -12,7 +12,9 @@ Github repo: https://github.com/Y2theK/support_ticket_portal.git
 
 ## Frontend Approach
 
-I chose React since I want to give a smooth SPA experience. React has a rich ecosystem and is widely used for building SPA applications in modern web development, making it a good fit for this application. I used Inertia.js as an adapter to connect the frontend and backend.
+I used react, inertia.js and shadcn/ui for frontend. 
+
+I chose React since I want to give a smooth SPA experience. React has a rich ecosystem and is widely used for building SPA applications in modern web development, so it is a good fit for this application. I used Inertia.js as an adapter to connect the frontend and backend.
 
 Since the backend is built with Laravel, Inertia.js is a good fit because it allows me to build a modern single-page application without creating and maintaining a separate API. It keeps development simple and gives a smooth SPA experience.
 
